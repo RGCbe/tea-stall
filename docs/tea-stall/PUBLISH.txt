@@ -1,0 +1,18 @@
+The Tea Stall — Episode 1 files
+
+Upload these from a computer, in this order:
+01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg, 10.jpg, 11.jpg, 12.jpg
+
+Series
+- Title: The Tea Stall
+- Categories: Slice of life, Comedy
+- Summary: A night tea seller meets one tired customer. Nothing is fixed except the cup. The lamp stays lit for whoever comes next.
+- Square thumbnail: thumb-square.jpg (1080×1080)
+- Vertical thumbnail: thumb-vertical.jpg (1080×1920)
+
+Episode
+- Title: Episode 1 – The Tea Stall
+- Thumbnail: thumb-episode.jpg (160×151)
+- Creator note: Story and lettering by Manoj. Art made with AI tools.
+
+On WEBTOON Canvas: open your series, add an episode, upload the pages in order, preview, then publish.
